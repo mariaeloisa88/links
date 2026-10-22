@@ -3,6 +3,7 @@
 A simple, free, and privacy-conscious landing page that brings all my online profiles, blogs, shop, and projects together in one place.
 
 One page. One QR code. All my links.
+
 Live View: [Click here](https://mariaeloisa88.github.io/links/)
 
 ## Purpose
